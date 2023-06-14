@@ -18,7 +18,7 @@ Projeto realizado através do curso programador BR <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Social Links" src="./github/preview.PNG" width="100%">
+  <img alt="projeto Social Links" src="./.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
